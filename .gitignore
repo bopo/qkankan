@@ -1,0 +1,15 @@
+*.egg-info
+*.pyc
+*.jl
+MANIFEST
+/docs/_build
+/site
+.tox
+.idea
+.cache
+.coverage
+.ipynb_checkpoints
+.ropeproject
+/dist
+/build
+.vagrant/
